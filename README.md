@@ -20,7 +20,7 @@ Enter name and then your face is saved
 
 Then Run recogniser.py
 
-```$python3 recogniser.py```
+```$ python3 recogniser.py```
 
 ## Thanks for the read .
 ### Share your Suggession and views
